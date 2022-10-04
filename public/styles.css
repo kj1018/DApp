@@ -12,8 +12,7 @@ body {
 }
 
 header {
-  background-color: #ff5050;
-  /* background-color: #ffd050; */
+  background-color: #ffd050;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -62,8 +61,7 @@ footer p {
   position: relative;
   float: right;
   margin-right: 10px;
-  color: #1326f5;
-  /* color: #f5ba13; */
+  color: #f5ba13;
   border: none;
   width: 36px;
   height: 36px;
