@@ -23,7 +23,7 @@ header h1 {
   color: #fff;
   font-family: "McLaren", cursive;
   font-weight: 800;
-  text-align: center;
+  /* text-align: center; */
 }
 
 footer {
@@ -62,6 +62,7 @@ footer p {
   float: right;
   margin-right: 10px;
   color: #f5ba13;
+  background-color: white;
   border: none;
   width: 36px;
   height: 36px;
